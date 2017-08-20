@@ -90,9 +90,14 @@
     "args": {"name": "ISC.full"}
   },
   {
-    "caption": "Licence Snippet: MIT Licence [Header] [Full Text]",
+    "caption": "Licence Snippet: MIT Licence [Full Text]",
     "command": "insert_licence",
     "args": {"name": "MIT.full"}
+  },
+  {
+    "caption": "Licence Snippet: MIT Licence [Header]",
+    "command": "insert_licence",
+    "args": {"name": "MIT.header"}
   },
   {
     "caption": "Licence Snippet: Mozilla Public Licence v2.0 [Header]",
